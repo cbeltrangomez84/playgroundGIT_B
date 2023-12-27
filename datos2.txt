@@ -1,0 +1,11 @@
+Este es master
+linea 1 master
+linea 2 development
+linea 2.1 development
+linea 3 master
+linea 4 master - change in multiface
+linea 4 master - edited from dev
+// REMEMBER TO CONTINUE WITH DEVELOPMENT OF DANGER
+New Line From multiface
+New Line for dev
+Other more

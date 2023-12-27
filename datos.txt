@@ -1,0 +1,7 @@
+dato1: true
+dato2: true
+dato3: true
+dato4: true
+dato5: true
+A = 2
+New from dev
